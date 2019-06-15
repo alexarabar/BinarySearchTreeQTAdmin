@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="copy">images/copy.png</file>
+        <file alias="cut">images/cut.png</file>
+        <file alias="new">images/new.png</file>
+        <file alias="open">images/open.png</file>
+        <file alias="paste">images/paste.png</file>
+        <file alias="save">images/save.png</file>
+        <file alias="print">images/print.png</file>
+        <file alias="redo">images/redo.png</file>
+        <file alias="undo">images/undo.png</file>
+        <file alias="zoomin">images/zoomin.png</file>
+        <file alias="zoomout">images/zoomout.png</file>
+        <file alias="edge">images/edge.png</file>
+        <file alias="rotleft">images/rotleft.png</file>
+        <file alias="rotright">images/rotright.png</file>
+        <file alias="balance">images/balance.png</file>
+        <file alias="bin">images/bin.png</file>
+        <file alias="rb">images/rb.png</file>
+        <file alias="avl">images/avl.png</file>
+        <file alias="insert">images/insert.png</file>
+        <file alias="delete">images/delete.png</file>
+        <file alias="search">images/search.png</file>
+        <file alias="commit">images/commit.png</file>
+        <file alias="rollback">images/rollback.png</file>
+        <file alias="exit">images/exit.png</file>
+    </qresource>
+</RCC>
